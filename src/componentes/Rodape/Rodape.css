@@ -1,0 +1,28 @@
+.rodape {
+  background-color: #6278F7;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 24px;
+  height: 215px;
+  box-sizing: border-box;
+}
+
+.fundo {
+  position: absolute;
+  height: 215px;
+}
+
+.redes-sociais {
+  display: flex;
+  gap: 32px;
+}
+
+.logo-alura {
+  width: 165px;
+  height: 62px;
+}
+
+.desenvolvido-por {
+  color: #FFFFFF;
+}
